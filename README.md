@@ -19,25 +19,25 @@
 <br>
 
 ## BUKTI HALAMAN AWAL
-![](Screenshot/1.png)
+![](screenshot/1.png)
 
 <br>
 
 ---
 ## BUKTI HALAMAN AWAL
-![](Screenshot/2.png)
+![](screenshot/2.png)
 
 <br>
 
 ---
 ## BUKTI SCROLL ATAS
-![](Screenshot/hasilscroll.png)
+![](screenshot/hasilscroll.png)
 
 <br>
 
 ---
 ## BUKTI SCROLL BAWAH
-![](Screenshot/hasilscroll2.png)
+![](screenshot/hasilscroll2.png)
 
 <br>
 
